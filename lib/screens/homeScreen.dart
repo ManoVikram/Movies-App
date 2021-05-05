@@ -93,7 +93,7 @@ class HomeScreen extends StatelessWidget {
                   ),
                 ),
                 SizedBox(
-                  height: 36.0,
+                  height: 30.0,
                 ),
                 SingleChildScrollView(
                   physics: BouncingScrollPhysics(),
@@ -116,7 +116,7 @@ class HomeScreen extends StatelessWidget {
                   ),
                 ),
                 SizedBox(
-                  height: 36.0,
+                  height: 30.0,
                 ),
                 MovieCarousel(),
               ],
