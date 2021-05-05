@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+
+import './screens/homeScreen.dart';
 
 class MyApp extends StatefulWidget {
   @override
@@ -20,7 +23,9 @@ class _MyAppState extends State<MyApp> {
 class MoviesApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      body: HomeScreen(),
+    );
   }
 }
 
