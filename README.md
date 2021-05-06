@@ -1,16 +1,13 @@
-# movies_app
+# CRAZY MOVIES APP
 
-A new Flutter project.
+Entertainment is a big part of every human's life. Web series, movies, reality shows, etc fills a huge part of our life.
 
-## Getting Started
+This app shows all the top movies, web series and many more. View the movie/show details to get more info on that movie/show.
 
-This project is a starting point for a Flutter application.
+## UI inspiration
 
-A few resources to get you started if this is your first Flutter project:
+This UI is inspired from one of the works of [Nickelfox](https://dribbble.com/NickelfoxStudio)
+## UI
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home Screen](assets/HomeScreen.png)
+![Details Screen](assets/DetailsScreen.png)
